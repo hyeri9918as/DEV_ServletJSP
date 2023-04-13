@@ -1,4 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,8 +8,8 @@
 </head>
 <body>
 
-<% 
-	out.println("<h1> 첫번째 JSP 문서이다.");   // % html과 java 코드를 구분하는 코드 
+<%
+	out.println("<h1> 첫번째 JSP 문서이다."); // % html과 java 코드를 구분하는 코드 
 %>
 
 </body>
